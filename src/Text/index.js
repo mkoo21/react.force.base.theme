@@ -36,7 +36,7 @@ import {
 
 const getDefaultStyle = () => {
   return {
-    fontFamily: 'SalesforceSans-Regular',
+    
   }
 };
 
