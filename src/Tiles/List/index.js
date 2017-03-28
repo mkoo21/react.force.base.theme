@@ -70,8 +70,7 @@ module.exports = React.createClass({
             <View style={styles['View slds-tile__detail slds-list--horizontal slds-has-dividers slds-text-body--small']}>
               <Text
                 style={styles['Text slds-tile__detail slds-list--horizontal slds-has-dividers slds-text-body--small']}
-                numberOfLines={1}
-              >
+                numberOfLines={1} >
                 {this.props.detail}
               </Text>
             </View>
@@ -80,4 +79,4 @@ module.exports = React.createClass({
       </View>
     );
   }
-});
+}); 

@@ -42,8 +42,9 @@ module.exports = StyleSheet.create({ 'View slds-list--vertical slds-has-dividers
      paddingBottom: 12,
      paddingLeft: 12,
      paddingRight: 12,
-     borderBottomWidth: 1,
-     borderBottomColor: '#d8dde6' },
+     //borderBottomWidth: 1,
+     //borderBottomColor: '#d8dde6' 
+   },
   'Text slds-list__item slds-not-selected': {},
   'View slds-media slds-tile': { alignItems: 'flex-start' },
   'Text slds-media slds-tile': {},
